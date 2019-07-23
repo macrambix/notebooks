@@ -1,6 +1,6 @@
 # Python environment for Jupyter Notebooks with requirements.txt
  
- - reactive advection dispersion equation by finite difference
+ - reactive advection dispersion equation by finite difference : ``` react_diff_eqn.ipynb```
  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/macrambix/notebooks/master)
