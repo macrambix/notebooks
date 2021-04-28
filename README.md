@@ -1,5 +1,6 @@
 # Python environment for Jupyter Notebooks with requirements.txt
- 
+
+ - Convert a tecplot file using layers into GemPy format 
  - reactive advection dispersion equation by finite difference : ``` react_diff_eqn.ipynb```
  
 
