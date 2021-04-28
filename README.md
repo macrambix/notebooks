@@ -26,3 +26,15 @@ specifying explict versions wherever possible.
 
 In this example we include the library `seaborn` which will be installed in
 the environment, and our notebook uses it to plot a figure.
+
+# gempy-examples
+Things based on [GemPy](https://github.com/cgre-aachen/gempy). All demonstrated on a simple example model with five different lithologies and no fault:
+
+![](figs/Figure 19.png)
+
+**Important note:** It is not guaranteed that these notebooks will run with the main version of gempy. Gempy is in active development and things are changing fast, which can lead to errors when running code in these notebooks.
+
+#### plot_2d results
+![](figs/Figure 13.png)
+
+### ...
