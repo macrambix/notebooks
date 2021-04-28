@@ -4,6 +4,9 @@ pandas==1.1.*
 seaborn==0.11.*
 ipyvtk-simple==0.1.*
 ipywidgets==7.5.*
+itkwidgets==0.32.*
+gempy==2.2.9
+pyevtk==1.2.0
 
 
 
