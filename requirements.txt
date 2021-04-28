@@ -1,6 +1,9 @@
-numpy==1.16.*
+numpy==1.18.*
 matplotlib==3.*
-pandas==1.1.4
+pandas==1.1.*
+seaborn==0.11.*
+ipyvtk-simple==0.1.*
+ipywidgets==7.5.*
 
 
 
