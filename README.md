@@ -1,8 +1,6 @@
-# Python environment for Jupyter Notebooks with requirements.txt
+# Python environment for Jupyter Lab Notebooks with requirements.txt
 
- - Convert a tecplot file using layers into GemPy format : ```convert_lay2gp.ipynb```
- - reactive advection dispersion equation by finite difference : ``` react_diff_eqn.ipynb```
- 
+ - Convert a tecplot file using layers into GemPy format : ```convert_lay2gp.ipynb``` 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/macrambix/notebooks/master)
 
@@ -30,11 +28,15 @@ the environment, and our notebook uses it to plot a figure.
 # gempy-examples
 Things based on [GemPy](https://github.com/cgre-aachen/gempy). All demonstrated on a simple example model with five different lithologies and no fault:
 
-![](figs/Figure 19.png)
+## plot_2d results
+
+![](https://github.com/macrambix/notebooks/blob/master/figs/Figure%2013.png)
+
+![](https://github.com/macrambix/notebooks/blob/master/figs/Figure%2031.png)
 
 **Important note:** It is not guaranteed that these notebooks will run with the main version of gempy. Gempy is in active development and things are changing fast, which can lead to errors when running code in these notebooks.
 
-#### plot_2d results
-![](figs/Figure 13.png)
+## plot_3d results
+![](https://github.com/macrambix/notebooks/blob/master/figs/3d_with_topo.png)
 
 ### ...
