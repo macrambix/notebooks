@@ -32,7 +32,7 @@ Things based on [GemPy](https://github.com/cgre-aachen/gempy). All demonstrated 
 
 ![](https://github.com/macrambix/notebooks/blob/master/figs/Figure%2013.png)
 
-![](https://github.com/macrambix/notebooks/blob/master/figs/Figure%2013.png)
+![](https://github.com/macrambix/notebooks/blob/master/figs/Figure%2031.png)
 
 **Important note:** It is not guaranteed that these notebooks will run with the main version of gempy. Gempy is in active development and things are changing fast, which can lead to errors when running code in these notebooks.
 
