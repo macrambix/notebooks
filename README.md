@@ -32,7 +32,7 @@ Things based on [GemPy](https://github.com/cgre-aachen/gempy). All demonstrated 
 
 **Important note:** It is not guaranteed that these notebooks will run with the main version of gempy. Gempy is in active development and things are changing fast, which can lead to errors when running code in these notebooks.
 
-#### plot_2d results
-![](./figs/Figure 13.png)
+#### plot_3d results
+![](https://github.com/macrambix/notebooks/blob/master/figs/3d_with_topo.png)
 
 ### ...
