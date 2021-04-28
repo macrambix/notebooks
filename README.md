@@ -1,8 +1,6 @@
-# Python environment for Jupyter Notebooks with requirements.txt
+# Python environment for Jupyter Lab Notebooks with requirements.txt
 
- - Convert a tecplot file using layers into GemPy format : ```convert_lay2gp.ipynb```
- - reactive advection dispersion equation by finite difference : ``` react_diff_eqn.ipynb```
- 
+ - Convert a tecplot file using layers into GemPy format : ```convert_lay2gp.ipynb``` 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/macrambix/notebooks/master)
 
