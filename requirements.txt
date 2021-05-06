@@ -9,6 +9,7 @@ gempy==2.2.9
 pyevtk==1.2.0
 tqdm==4.60.*
 pyevtk
+orjson
 jupyter_contrib_nbextensions
 
 
